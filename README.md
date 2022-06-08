@@ -21,6 +21,10 @@ Repeat 3 and 4 until we get the solved puzzle.
 Calculate the time taken to solve the sudoku.
 
 ## Program:
+```
+Developed By : Saran M
+Reg.no : 212220230044
+```
 ```python
 import time
 
