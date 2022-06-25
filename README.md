@@ -1,4 +1,7 @@
-# Sudoku
+### EXP NO:06
+### DATE:07/06/2022
+
+# <p align='center'> Sudoku</p>
 
 ## Aim:
 To develop a code to solve a sudoku puzzle using contraint propagation
